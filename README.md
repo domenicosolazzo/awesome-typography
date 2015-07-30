@@ -7,6 +7,18 @@ Web typography has 3 main concepts:
 - [**Legibility**](http://goo.gl/wRMChw): It defines how easy it is to distinguish between individual letterforms (the shapes of the letters), and is a vital consideration for setting type in user interfaces.
 - [**Readability**](http://goo.gl/wRMChw): It defines how easy it is to read paragraph content. It’s determined by the font's design and your own design choices, including sizing, spacing, and color.
 
+## Font types
+- [**Serif**](http://goo.gl/wRMChw): It is used for printed content. It has "terminals" (or serifs) at the end of each letter.
+   - Examples: Times New Roman, Georgia, Droid Serif
+- [**Sans Serif**](http://goo.gl/wRMChw): It lacks serifs. It is a standard for the web.
+   - Examples: Arial, Verdana, Droid Sans
+- [**Monospaced**](http://goo.gl/wRMChw): Every character takes the same width and they are often used in text editors.
+   - Example: Inconsolata
+- [**Cursive**](http://goo.gl/wRMChw): Cursive fonts mimic handwriting. They tend to emphasize visual interest over legibility. They are good for titles and headings.
+   - Examples: Indie Flower, Great Vibes
+- [**Display**](http://goo.gl/wRMChw): Display fonts tend to be either big and bold or hairline thin, and they often have highly complex letterforms.
+   - Examples:  Changa One
+
 ## Digital typography rules
 #### Choosing the font
 - [Don't use fancy fonts](https://goo.gl/UmASem)
