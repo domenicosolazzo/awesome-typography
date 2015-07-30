@@ -29,6 +29,7 @@ Web typography has 3 main concepts:
 #### Mixing fonts
 - [Don't mix more than two fonts](https://goo.gl/UmASem)
 - [Mix only contrasting fonts](https://goo.gl/UmASem): Sans Serif + Serif, a Script font and a modern one
+- [Use Typegenius](http://goo.gl/ggyFnF): Use typegenius for finding a perfect combo
 
 #### Setting text
 - [Font size](https://goo.gl/UmASem): The font size on the web should be at least 13px, 14-18px is the best
