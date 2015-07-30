@@ -1,6 +1,12 @@
 # Practice Typography
 Tips how to use web typography. I am a beginner and I am just learning.
 
+## Key concepts
+Web typography has 3 main concepts:
+- [**Tone**](http://goo.gl/wRMChw): It is the mood or feeling that your typography conveys visually, which is distinct from the tone of the content itself. Tone ranges across a spectrum from informal to formal, and you’ll want to make sure your typography sets the right tone for the message and brand. 
+- [**Legibility**](http://goo.gl/wRMChw): It defines how easy it is to distinguish between individual letterforms (the shapes of the letters), and is a vital consideration for setting type in user interfaces.
+- [**Readability**](http://goo.gl/wRMChw): It defines how easy it is to read paragraph content. It’s determined by the font's design and your own design choices, including sizing, spacing, and color.
+
 ## Digital typography rules
 #### Choosing the font
 - [Don't use fancy fonts](https://goo.gl/UmASem)
@@ -43,3 +49,4 @@ Tips how to use web typography. I am a beginner and I am just learning.
 
 # References
 - [26 typography rules for beginner](https://goo.gl/UmASem)
+- [Web typography 101](http://goo.gl/wRMChw)
