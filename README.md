@@ -62,7 +62,12 @@ Web typography has 3 main concepts:
 - [Spell numbers](https://goo.gl/UmASem):
 
 # Font resources
+### Find fonts
 - [Typegenius](http://goo.gl/ggyFnF): Find the perfect font combo for your next project
+- [Typekit](https://goo.gl/Us4gBE): This service hosts and serves a vast collection of premium fonts for websites
+- [Google Web Fonts](https://goo.gl/d4AKYb): Massive collection of free fonts
+- [Behance](https://goo.gl/RPNtln): Many designers release their font for free.
+- [Dribbble](https://goo.gl/sfz8Zk): Many designers release their font for free.
 
 # References
 - [26 typography rules for beginner](https://goo.gl/UmASem)
