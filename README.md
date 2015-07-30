@@ -69,6 +69,13 @@ Web typography has 3 main concepts:
 - [Behance](https://goo.gl/RPNtln): Many designers release their font for free.
 - [Dribbble](https://goo.gl/sfz8Zk): Many designers release their font for free.
 
+### Font inspiration
+- [TypeWolf](http://goo.gl/i0QWJZ)
+- [Awwwards Picked Typography Sites](http://goo.gl/5pnVFn)
+- [Hello Happy – Beautiful Web Type](http://goo.gl/Frqgtp)
+- [Hand-picked tales from Aesop's Fables with hand-picked type from Google Fonts](http://goo.gl/ch9nUw)
+- [FontPair](http://goo.gl/clv1Ry): Tool for testing your font pairings
+
 # References
 - [26 typography rules for beginner](https://goo.gl/UmASem)
 - [Web typography 101](http://goo.gl/wRMChw)
