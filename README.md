@@ -59,6 +59,10 @@ Web typography has 3 main concepts:
 #### Numbers
 - [Spell numbers](https://goo.gl/UmASem):
 
+# Font sites
+- [Typegenius](http://goo.gl/ggyFnF): Find the perfect font combo for your next project
+
 # References
 - [26 typography rules for beginner](https://goo.gl/UmASem)
 - [Web typography 101](http://goo.gl/wRMChw)
+- [How to pick the nicest font](http://goo.gl/e48gqi)
