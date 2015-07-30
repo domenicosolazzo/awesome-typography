@@ -30,6 +30,7 @@ Web typography has 3 main concepts:
 - [Don't mix more than two fonts](https://goo.gl/UmASem)
 - [Mix only contrasting fonts](https://goo.gl/UmASem): Sans Serif + Serif, a Script font and a modern one
 - [Use Typegenius](http://goo.gl/ggyFnF): Use Typegenius for finding a perfect combo
+- [Be careful mixing sans serif and serif fonts](http://goo.gl/wRMChw)
 
 #### Setting text
 - [Font size](https://goo.gl/UmASem): The font size on the web should be at least 13px, 14-18px is the best
@@ -60,7 +61,7 @@ Web typography has 3 main concepts:
 #### Numbers
 - [Spell numbers](https://goo.gl/UmASem):
 
-# Font sites
+# Font resources
 - [Typegenius](http://goo.gl/ggyFnF): Find the perfect font combo for your next project
 
 # References
