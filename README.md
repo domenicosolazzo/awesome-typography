@@ -69,6 +69,10 @@ Web typography has 3 main concepts:
 - [Try to avoid setting light text on a dark background for long passages](http://goo.gl/wRMChw)
 - [When displaying text over an image, make the background as dark as you can](http://goo.gl/wRMChw): Consider adding a slight text-shadow on the white text to make it pop
 
+#### Units
+- [px are the standard on the web](http://goo.gl/wRMChw)
+- [Use relative units](http://goo.gl/wRMChw): Use ems or percentages
+
 # Font resources
 ### Find fonts
 - [Typegenius](http://goo.gl/ggyFnF): Find the perfect font combo for your next project
