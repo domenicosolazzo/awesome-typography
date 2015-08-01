@@ -25,6 +25,8 @@ Web typography has 3 main concepts:
 - [Trajan Pro is not fancy nor old](https://goo.gl/UmASem):It is an elegant font, but not a good match for long text
 - [Throw Comic Sans away](https://goo.gl/UmASem)
 - [Avoiding default fonts is bullshit](https://goo.gl/UmASem): Better a dull font that one that is unreadable
+- [Use a bolder weight to emphasize or add drama to particular passages](http://goo.gl/wRMChw)
+- [Pick which weights you use carefully](http://goo.gl/wRMChw): Don't load all the weights of a given font. It will slow down the web page.
 
 #### Mixing fonts
 - [Don't mix more than two fonts](https://goo.gl/UmASem)
