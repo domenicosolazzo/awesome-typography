@@ -51,6 +51,7 @@ Web typography has 3 main concepts:
 #### Words
 - [Kerning](https://goo.gl/UmASem): If you are not experienced, don't kern manually. Kerning is manually adjusting the spacing between a pair of letters when the digital typeface itself does not do it adequately, common in letters with diagonal stroke such as W or Y
 - [Tracking](https://goo.gl/UmASem): When you enlarge fonts size, spacing between letters grows. When setting up large titles, it's advisable to reduce font tracking proportionally
+- [Tracking versus Kerning](http://goo.gl/wRMChw): Tracking (letter-spacing) differs from kerning in that tracking sets a single distance between all letters, while kerning allows for custom spacing between different letters. 
 - [Emphasis in text](https://goo.gl/UmASem): Try using a bold version of the typeface. Don't upper case.
 - [Don't letter space the lower case](https://goo.gl/UmASem): Letter spacing lower case hampers legibility
 - [Letter space upper case](https://goo.gl/UmASem): Add more letter space between capitals. Readability always benefits from more space between upper case letters.
