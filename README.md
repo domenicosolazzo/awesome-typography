@@ -89,6 +89,13 @@ Web typography has 3 main concepts:
 - [Dribbble](https://goo.gl/sfz8Zk): Many designers release their font for free.
 - [Modular Scale](http://goo.gl/xZa72H): Handy tool for creating type hierarchies with a little more mathematical rigor
 
+### Courses
+- [Tuts+](http://webdesign.tutsplus.com/series/a-z-of-web-typography--webdesign-11706): Course about web typography
+- [HackDesign](https://hackdesign.org/lessons#typography): Newsletter course about design (also about typography!)
+
+### Books
+- [Design For Hackers](http://www.amazon.com/Design-Hackers-Reverse-Engineering-Beauty/dp/1119998956)
+
 ### Font inspiration
 - [TypeWolf](http://goo.gl/i0QWJZ)
 - [Awwwards Picked Typography Sites](http://goo.gl/5pnVFn)
