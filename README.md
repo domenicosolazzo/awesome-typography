@@ -39,6 +39,9 @@ Web typography has 3 main concepts:
 - [Choose the right line length](https://goo.gl/UmASem): Line length is equal text size times two. Keep it between 45 to 75 characters
 - [Choose learning suited to the text size](https://goo.gl/UmASem): Easier rule is to set the line height of 125% of text size
 
+#### Line height
+- [Set your line-height to around 1.5em](http://goo.gl/wRMChw)
+
 #### Paragraphs
 - [Flush left](https://goo.gl/UmASem): If you are not sure, just range left.
 - [Avoid hyphenation](https://goo.gl/UmASem): Hyphenation should be avoided whenever possible
