@@ -36,6 +36,7 @@ Web typography has 3 main concepts:
 
 #### Setting text
 - [Font size](https://goo.gl/UmASem): The font size on the web should be at least 13px, 14-18px is the best
+- [Size matters](http://goo.gl/wRMChw): Set your main heading (H1) to twice the size of your body font. For the rest of your headings (H2 and down), just lower your size by about 25% per level
 - [Choose the right line length](https://goo.gl/UmASem): Line length is equal text size times two. Keep it between 45 to 75 characters
 - [Choose learning suited to the text size](https://goo.gl/UmASem): Easier rule is to set the line height of 125% of text size
 
