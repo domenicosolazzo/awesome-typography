@@ -36,7 +36,8 @@ Web typography has 3 main concepts:
 
 #### Setting text
 - [Font size](https://goo.gl/UmASem): The font size on the web should be at least 13px, 14-18px is the best
-- [Size matters](http://goo.gl/wRMChw): Set your main heading (H1) to twice the size of your body font. For the rest of your headings (H2 and down), just lower your size by about 25% per level
+- [Size matters](http://goo.gl/wRMChw): Set your main heading (H1) to twice the size of your body font. For the rest of your headings (H2 and down), just lower your size by about 25% per level. 
+- [Size matters - Part II](http://goo.gl/wRMChw): Use a tool like [Modular Scale](http://goo.gl/xZa72H)
 - [Choose the right line length](https://goo.gl/UmASem): Line length is equal text size times two. Keep it between 45 to 75 characters
 - [Choose learning suited to the text size](https://goo.gl/UmASem): Easier rule is to set the line height of 125% of text size
 
@@ -86,6 +87,7 @@ Web typography has 3 main concepts:
 - [Google Web Fonts](https://goo.gl/d4AKYb): Massive collection of free fonts
 - [Behance](https://goo.gl/RPNtln): Many designers release their font for free.
 - [Dribbble](https://goo.gl/sfz8Zk): Many designers release their font for free.
+- [Modular Scale](http://goo.gl/xZa72H): Handy tool for creating type hierarchies with a little more mathematical rigor
 
 ### Font inspiration
 - [TypeWolf](http://goo.gl/i0QWJZ)
