@@ -96,6 +96,9 @@ Web typography has 3 main concepts:
 ### Books
 - [Design For Hackers](http://www.amazon.com/Design-Hackers-Reverse-Engineering-Beauty/dp/1119998956)
 
+### CDN
+- [FontCDN](http://fontcdn.org/)
+
 ### Font inspiration
 - [TypeWolf](http://goo.gl/i0QWJZ)
 - [Awwwards Picked Typography Sites](http://goo.gl/5pnVFn)
