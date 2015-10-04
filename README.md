@@ -106,6 +106,9 @@ Web typography has 3 main concepts:
 - [Hand-picked tales from Aesop's Fables with hand-picked type from Google Fonts](http://goo.gl/ch9nUw)
 - [FontPair](http://goo.gl/clv1Ry): Tool for testing your font pairings
 
+### Performance
+- [Web Fonts Performance](https://speakerdeck.com/bramstein/web-fonts-performance)
+
 # References
 - [26 typography rules for beginner](https://goo.gl/UmASem)
 - [Web typography 101](http://goo.gl/wRMChw)
