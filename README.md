@@ -109,6 +109,11 @@ Web typography has 3 main concepts:
 ### Performance
 - [Web Fonts Performance](https://speakerdeck.com/bramstein/web-fonts-performance)
 
+# Tools
+- [Type­set.js](https://blot.im/typeset/): A ty­po­graphic pre-proces­sor for your html which uses zero client-side JavaScript
+- [Brick.im](https://github.com/alfredxing/brick): Webfonts that looks good
+- [Typebase.css](http://devinhunt.github.io/typebase.css/): Typebase.css is a minimal, customizable typography stylesheet.
+
 # References
 - [26 typography rules for beginner](https://goo.gl/UmASem)
 - [Web typography 101](http://goo.gl/wRMChw)
