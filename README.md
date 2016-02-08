@@ -1,4 +1,4 @@
-# Practice Typography
+# Awesome Typography
 Tips how to use web typography. I am a beginner and I am just learning.
 
 ## Key concepts
