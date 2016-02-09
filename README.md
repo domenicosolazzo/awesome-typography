@@ -110,6 +110,13 @@ Web typography has 3 main concepts:
 - [Web Fonts Performance](https://speakerdeck.com/bramstein/web-fonts-performance)
 
 # Tools
+- [A simple plugin to keep font-size in proportion with it's containers size](https://github.com/jkroso/flowtype)
+- [Web Font Loader](https://developers.google.com/fonts/docs/webfont_loader)
+- [Preventing the Performance Hit from Custom Fonts](https://css-tricks.com/preventing-the-performance-hit-from-custom-fonts/)
+- [Web Font Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=en)
+- [Font Face and Performance](http://www.stevesouders.com/blog/2009/10/13/font-face-and-performance/)
+- [The State of Web Type - Up-to-date data on support for type and typographic features on the web](http://stateofwebtype.com/)
+- [Normalize-Opentype.css - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.](https://github.com/kennethormandy/normalize-opentype.css)
 - [Type­set.js](https://blot.im/typeset/): A ty­po­graphic pre-proces­sor for your html which uses zero client-side JavaScript
 - [Brick.im](https://github.com/alfredxing/brick): Webfonts that looks good
 - [Typebase.css](http://devinhunt.github.io/typebase.css/): Typebase.css is a minimal, customizable typography stylesheet.
