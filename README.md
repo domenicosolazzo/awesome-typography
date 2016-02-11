@@ -76,6 +76,11 @@ Web typography has 3 main concepts:
 - [Try to avoid setting light text on a dark background for long passages](http://goo.gl/wRMChw)
 - [When displaying text over an image, make the background as dark as you can](http://goo.gl/wRMChw): Consider adding a slight text-shadow on the white text to make it pop
 
+# Articles
+- [26 digital typography rules for beginners](https://medium.com/product-design-ux-ui/26-digital-typography-rules-for-beginners-a04c6a5aaff3)
+- [Variable Fonts for Responsive Design](http://alistapart.com/blog/post/variable-fonts-for-responsive-design)
+- [Typeface Mechanics](https://frerejones.com/blog/typeface-mechanics-001/)
+
 #### Units
 - [px are the standard on the web](http://goo.gl/wRMChw)
 - [Use relative units](http://goo.gl/wRMChw): Use ems or percentages
