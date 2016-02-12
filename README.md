@@ -77,6 +77,8 @@ Web typography has 3 main concepts:
 - [When displaying text over an image, make the background as dark as you can](http://goo.gl/wRMChw): Consider adding a slight text-shadow on the white text to make it pop
 
 # Articles
+- [The Best Free Alternatives to the Most Popular Fonts](http://blog.spoongraphics.co.uk/articles/the-best-free-alternatives-to-the-most-popular-fonts)
+- [A History of Typeface Styles & Type Classification](http://blog.spoongraphics.co.uk/articles/a-history-of-typeface-styles-type-classification)
 - [26 digital typography rules for beginners](https://medium.com/product-design-ux-ui/26-digital-typography-rules-for-beginners-a04c6a5aaff3)
 - [Variable Fonts for Responsive Design](http://alistapart.com/blog/post/variable-fonts-for-responsive-design)
 - [Typeface Mechanics](https://frerejones.com/blog/typeface-mechanics-001/)
