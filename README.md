@@ -102,6 +102,10 @@ Web typography has 3 main concepts:
 
 ### Books
 - [Design For Hackers](http://www.amazon.com/Design-Hackers-Reverse-Engineering-Beauty/dp/1119998956)
+- [The Elements of Typographic Style](http://www.amazon.co.uk/Elements-Typographic-Style-Robert-Bringhurst/dp/0881792063)
+- [The Elements of Typographic Style - Online Version](http://webtypography.net/)
+- [Practical Typography](http://practicaltypography.com/)
+
 
 ### CDN
 - [FontCDN](http://fontcdn.org/)
