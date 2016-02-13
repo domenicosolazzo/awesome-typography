@@ -105,7 +105,7 @@ Web typography has 3 main concepts:
 - [The Elements of Typographic Style](http://www.amazon.co.uk/Elements-Typographic-Style-Robert-Bringhurst/dp/0881792063)
 - [The Elements of Typographic Style - Online Version](http://webtypography.net/)
 - [Practical Typography](http://practicaltypography.com/)
-
+- [Thinking with Type](http://www.thinkingwithtype.com/)
 
 ### CDN
 - [FontCDN](http://fontcdn.org/)
