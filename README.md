@@ -82,6 +82,8 @@ Web typography has 3 main concepts:
 - [26 digital typography rules for beginners](https://medium.com/product-design-ux-ui/26-digital-typography-rules-for-beginners-a04c6a5aaff3)
 - [Variable Fonts for Responsive Design](http://alistapart.com/blog/post/variable-fonts-for-responsive-design)
 - [Typeface Mechanics](https://frerejones.com/blog/typeface-mechanics-001/)
+- [A more modern scale for Web Typography](http://typecast.com/blog/a-more-modern-scale-for-web-typography)
+- [Better web typography in 13 simple steps](http://www.creativebloq.com/typography/better-web-typography-few-simple-steps-5132803)
 
 #### Units
 - [px are the standard on the web](http://goo.gl/wRMChw)
