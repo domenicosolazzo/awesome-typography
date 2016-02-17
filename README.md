@@ -111,7 +111,9 @@ Web typography has 3 main concepts:
 - [The Elements of Typographic Style - Online Version](http://webtypography.net/)
 - [Practical Typography](http://practicaltypography.com/)
 - [Thinking with Type](http://www.thinkingwithtype.com/)
-- [Typographie: A Manual of Design](http://www.amazon.com/gp/product/3721200438?adid=0GMTZ4S41BD44FBRZBDP&camp=213381&creative=390973&creativeASIN=3721200438&linkCode=as4&ref_=as_li_ss_til&tag=braipick-20)
+- [Typographie: A Manual of Design](http://www.amazon.com/gp/product/3721200438)
+- [Cultural Connectives: Bridging the Latin and Arabic Alphabets](http://www.amazon.com/gp/product/1935613138)
+- [The Elements of Typographic Style](http://www.amazon.com/gp/product/0881792063)
 
 ### CDN
 - [FontCDN](http://fontcdn.org/)
