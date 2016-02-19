@@ -116,6 +116,8 @@ Web typography has 3 main concepts:
 - [The Elements of Typographic Style](http://www.amazon.com/gp/product/0881792063)
 - [The Type Taster: How Fonts Influence You](http://www.amazon.com/The-Type-Taster-Fonts-Influence/dp/0993181104)
 - [Little Black Font Book 2](http://www.amazon.co.uk/Little-Black-Font-Book-2/dp/0993181422)
+- [Alan Kitching's A-Z of Letterpress: Founts from The Typography Workshop](http://www.amazon.com/Alan-Kitchings-A-Z-Letterpress-Typography/dp/1780674813)
+
 
 ### CDN
 - [FontCDN](http://fontcdn.org/)
