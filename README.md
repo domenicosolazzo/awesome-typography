@@ -130,6 +130,8 @@ Web typography has 3 main concepts:
 - [FontPair](http://goo.gl/clv1Ry): Tool for testing your font pairings
 - [Type Hunting](http://typehunting.com/)
 - [We Love Typography](http://welovetypography.com/)
+- [Typography Served](http://www.typographyserved.com/)
+- [Type goodness](http://www.typegoodness.com/)
 
 
 ### Performance
