@@ -133,6 +133,7 @@ Web typography has 3 main concepts:
 - [Typography Served](http://www.typographyserved.com/)
 - [Type goodness](http://www.typegoodness.com/)
 - [Type Inspire](http://www.typeinspire.com/)
+- [Typography served](http://www.typographyserved.com)
 
 ### Performance
 - [Web Fonts Performance](https://speakerdeck.com/bramstein/web-fonts-performance)
