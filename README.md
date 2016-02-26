@@ -119,6 +119,7 @@ Web typography has 3 main concepts:
 - [Alan Kitching's A-Z of Letterpress: Founts from The Typography Workshop](http://www.amazon.com/Alan-Kitchings-A-Z-Letterpress-Typography/dp/1780674813)
 - [Thinking with Type](http://www.amazon.com/exec/obidos/ASIN/1568989695/)
 - [An Essay on Typography](http://www.amazon.com/exec/obidos/ASIN/0879239506/)
+- [Why Fonts matter](http://www.amazon.com/Why-Fonts-Matter-Sarah-Hyndman-ebook/dp/B01AIKWSMO/)
 
 ### CDN
 - [FontCDN](http://fontcdn.org/)
