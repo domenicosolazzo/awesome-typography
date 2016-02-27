@@ -120,6 +120,7 @@ Web typography has 3 main concepts:
 - [Thinking with Type](http://www.amazon.com/exec/obidos/ASIN/1568989695/)
 - [An Essay on Typography](http://www.amazon.com/exec/obidos/ASIN/0879239506/)
 - [Why Fonts matter](http://www.amazon.com/Why-Fonts-Matter-Sarah-Hyndman-ebook/dp/B01AIKWSMO/)
+- [Drop Caps: 100 Postcards](http://www.amazon.com/Drop-Caps-Postcards-Jessica-Hische/dp/1452136238)
 
 ### CDN
 - [FontCDN](http://fontcdn.org/)
