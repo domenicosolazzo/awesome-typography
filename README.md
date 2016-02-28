@@ -3,7 +3,7 @@ Tips how to use web typography. I am a beginner and I am just learning.
 
 ## Key concepts
 Web typography has 3 main concepts:
-- [**Tone**](http://goo.gl/wRMChw): It is the mood or feeling that your typography conveys visually, which is distinct from the tone of the content itself. Tone ranges across a spectrum from informal to formal, and you’ll want to make sure your typography sets the right tone for the message and brand. 
+- [**Tone**](http://goo.gl/wRMChw): It is the mood or feeling that your typography conveys visually, which is distinct from the tone of the content itself. Tone ranges across a spectrum from informal to formal, and you’ll want to make sure your typography sets the right tone for the message and brand.
 - [**Legibility**](http://goo.gl/wRMChw): It defines how easy it is to distinguish between individual letterforms (the shapes of the letters), and is a vital consideration for setting type in user interfaces.
 - [**Readability**](http://goo.gl/wRMChw): It defines how easy it is to read paragraph content. It’s determined by the font's design and your own design choices, including sizing, spacing, and color.
 
@@ -36,7 +36,7 @@ Web typography has 3 main concepts:
 
 #### Setting text
 - [Font size](https://goo.gl/UmASem): The font size on the web should be at least 13px, 14-18px is the best
-- [Size matters](http://goo.gl/wRMChw): Set your main heading (H1) to twice the size of your body font. For the rest of your headings (H2 and down), just lower your size by about 25% per level. 
+- [Size matters](http://goo.gl/wRMChw): Set your main heading (H1) to twice the size of your body font. For the rest of your headings (H2 and down), just lower your size by about 25% per level.
 - [Size matters - Part II](http://goo.gl/wRMChw): Use a tool like [Modular Scale](http://goo.gl/xZa72H)
 - [Choose the right line length](https://goo.gl/UmASem): Line length is equal text size times two. Keep it between 45 to 75 characters
 - [Choose learning suited to the text size](https://goo.gl/UmASem): Easier rule is to set the line height of 125% of text size
@@ -56,7 +56,7 @@ Web typography has 3 main concepts:
 #### Words
 - [Kerning](https://goo.gl/UmASem): If you are not experienced, don't kern manually. Kerning is manually adjusting the spacing between a pair of letters when the digital typeface itself does not do it adequately, common in letters with diagonal stroke such as W or Y
 - [Tracking](https://goo.gl/UmASem): When you enlarge fonts size, spacing between letters grows. When setting up large titles, it's advisable to reduce font tracking proportionally
-- [Tracking versus Kerning](http://goo.gl/wRMChw): Tracking (letter-spacing) differs from kerning in that tracking sets a single distance between all letters, while kerning allows for custom spacing between different letters. 
+- [Tracking versus Kerning](http://goo.gl/wRMChw): Tracking (letter-spacing) differs from kerning in that tracking sets a single distance between all letters, while kerning allows for custom spacing between different letters.
 - [Word spacing dictates the distance between words in a sentence](http://goo.gl/wRMChw): The best word spacing clearly distinguishes different words without forcing the eye to travel too far between them
 - [Emphasis in text](https://goo.gl/UmASem): Try using a bold version of the typeface. Don't upper case.
 - [Don't letter space the lower case](https://goo.gl/UmASem): Letter spacing lower case hampers legibility
@@ -123,6 +123,8 @@ Web typography has 3 main concepts:
 - [Drop Caps: 100 Postcards](http://www.amazon.com/Drop-Caps-Postcards-Jessica-Hische/dp/1452136238)
 - [The Typography Universe](http://www.thamesandhudson.com/The_Typographic_Universe/9780500241455)
 - [Type on screen: a critical guide for designers, writers, developers and students](http://www.amazon.com/Type-Screen-Critical-Designers-Developers/dp/161689170X)
+- [365 Typo](http://www.amazon.com/365-Typo-edited/dp/B016JRE9MW)
+- [The Evolution of Type: A Graphic Guide to 100 Landmark Typefaces](http://www.amazon.com/The-Evolution-Type-Landmark-Typefaces/dp/1770855041)
 
 ### CDN
 - [FontCDN](http://fontcdn.org/)
