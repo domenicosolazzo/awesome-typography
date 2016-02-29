@@ -123,6 +123,7 @@ Web typography has 3 main concepts:
 - [Drop Caps: 100 Postcards](http://www.amazon.com/Drop-Caps-Postcards-Jessica-Hische/dp/1452136238)
 - [365 Typo](http://www.amazon.com/365-Typo-edited/dp/B016JRE9MW)
 - [The Evolution of Type: A Graphic Guide to 100 Landmark Typefaces](http://www.amazon.com/The-Evolution-Type-Landmark-Typefaces/dp/1770855041)
+- [Type Team: Perfect Typeface Combinations](http://www.amazon.com/Type-Team-Perfect-Typeface-Combinations/dp/0500291683)
 
 ### CDN
 - [FontCDN](http://fontcdn.org/)
