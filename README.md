@@ -125,6 +125,7 @@ Web typography has 3 main concepts:
 - [Type on screen: a critical guide for designers, writers, developers and students](http://www.amazon.com/Type-Screen-Critical-Designers-Developers/dp/161689170X)
 - [365 Typo](http://www.amazon.com/365-Typo-edited/dp/B016JRE9MW)
 - [The Evolution of Type: A Graphic Guide to 100 Landmark Typefaces](http://www.amazon.com/The-Evolution-Type-Landmark-Typefaces/dp/1770855041)
+- [Type Team: Perfect Typeface Combinations](http://www.amazon.com/Type-Team-Perfect-Typeface-Combinations/dp/0500291683)
 
 ### CDN
 - [FontCDN](http://fontcdn.org/)
