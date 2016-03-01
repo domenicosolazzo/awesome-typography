@@ -125,9 +125,6 @@ Web typography has 3 main concepts:
 - [The Evolution of Type: A Graphic Guide to 100 Landmark Typefaces](http://www.amazon.com/The-Evolution-Type-Landmark-Typefaces/dp/1770855041)
 - [Type Team: Perfect Typeface Combinations](http://www.amazon.com/Type-Team-Perfect-Typeface-Combinations/dp/0500291683)
 
-### CDN
-- [FontCDN](http://fontcdn.org/)
-
 ### Font inspiration
 - [TypeWolf](http://goo.gl/i0QWJZ)
 - [Awwwards Picked Typography Sites](http://goo.gl/5pnVFn)
@@ -141,9 +138,6 @@ Web typography has 3 main concepts:
 - [Type Inspire](http://www.typeinspire.com/)
 - [Typography served](http://www.typographyserved.com)
 
-### Performance
-- [Web Fonts Performance](https://speakerdeck.com/bramstein/web-fonts-performance)
-
 # Tools
 - [A simple plugin to keep font-size in proportion with it's containers size](https://github.com/jkroso/flowtype)
 - [Web Font Loader](https://developers.google.com/fonts/docs/webfont_loader)
@@ -156,6 +150,11 @@ Web typography has 3 main concepts:
 - [Brick.im](https://github.com/alfredxing/brick): Webfonts that looks good
 - [Typebase.css](http://devinhunt.github.io/typebase.css/): Typebase.css is a minimal, customizable typography stylesheet.
 
+### Performance
+- [Web Fonts Performance](https://speakerdeck.com/bramstein/web-fonts-performance)
+
+### CDN
+- [FontCDN](http://fontcdn.org/)
 # References
 - [26 typography rules for beginner](https://goo.gl/UmASem)
 - [Web typography 101](http://goo.gl/wRMChw)
