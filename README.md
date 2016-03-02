@@ -87,6 +87,7 @@ Web typography has 3 main concepts:
 - [Typeface Mechanics](https://frerejones.com/blog/typeface-mechanics-001/)
 - [A more modern scale for Web Typography](http://typecast.com/blog/a-more-modern-scale-for-web-typography)
 - [Better web typography in 13 simple steps](http://www.creativebloq.com/typography/better-web-typography-few-simple-steps-5132803)
+- [Brand Typography: 50 Unique Fonts That Are Perfect for Logo Design](https://creativemarket.com/blog/2016/01/22/brand-typography-50-unique-fonts-that-are-perfect-for-logo-design)
 
 #### Units
 - [px are the standard on the web](http://goo.gl/wRMChw)
