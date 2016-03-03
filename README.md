@@ -135,6 +135,7 @@ Web typography has 3 main concepts:
 - [Hand-picked tales from Aesop's Fables with hand-picked type from Google Fonts](http://goo.gl/ch9nUw)
 - [FontPair](http://goo.gl/clv1Ry): Tool for testing your font pairings
 - [Type Hunting](http://typehunting.com/)
+- [I love typography](http://ilovetypography.com/)
 - [We Love Typography](http://welovetypography.com/)
 - [Typography Served](http://www.typographyserved.com/)
 - [Type goodness](http://www.typegoodness.com/)
