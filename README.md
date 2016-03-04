@@ -121,6 +121,8 @@ Web typography has 3 main concepts:
 - [An Essay on Typography](http://www.amazon.com/exec/obidos/ASIN/0879239506/)
 - [Why Fonts matter](http://www.amazon.com/Why-Fonts-Matter-Sarah-Hyndman-ebook/dp/B01AIKWSMO/)
 - [Drop Caps: 100 Postcards](http://www.amazon.com/Drop-Caps-Postcards-Jessica-Hische/dp/1452136238)
+- [The Typography Universe](http://www.thamesandhudson.com/The_Typographic_Universe/9780500241455)
+- [Type on screen: a critical guide for designers, writers, developers and students](http://www.amazon.com/Type-Screen-Critical-Designers-Developers/dp/161689170X)
 
 ### CDN
 - [FontCDN](http://fontcdn.org/)
