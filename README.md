@@ -122,7 +122,6 @@ Web typography has 3 main concepts:
 - [An Essay on Typography](http://www.amazon.com/exec/obidos/ASIN/0879239506/)
 - [Why Fonts matter](http://www.amazon.com/Why-Fonts-Matter-Sarah-Hyndman-ebook/dp/B01AIKWSMO/)
 - [Drop Caps: 100 Postcards](http://www.amazon.com/Drop-Caps-Postcards-Jessica-Hische/dp/1452136238)
-<<<<<<< HEAD
 - [The Typography Universe](http://www.thamesandhudson.com/The_Typographic_Universe/9780500241455)
 - [Type on screen: a critical guide for designers, writers, developers and students](http://www.amazon.com/Type-Screen-Critical-Designers-Developers/dp/161689170X)
 - [365 Typo](http://www.amazon.com/365-Typo-edited/dp/B016JRE9MW)
@@ -130,11 +129,10 @@ Web typography has 3 main concepts:
 - [Type Team: Perfect Typeface Combinations](http://www.amazon.com/Type-Team-Perfect-Typeface-Combinations/dp/0500291683)
 - [Shadow Type](http://www.thamesandhudson.com/Shadow_Type/9780500516997)
 - [Drawing Type: An Introduction to Illustrating Letterforms](http://www.amazon.com/Drawing-Type-Introduction-Illustrating-Letterforms/dp/1592538983)
-=======
 - [365 Typo](http://www.amazon.com/365-Typo-edited/dp/B016JRE9MW)
 - [The Evolution of Type: A Graphic Guide to 100 Landmark Typefaces](http://www.amazon.com/The-Evolution-Type-Landmark-Typefaces/dp/1770855041)
 - [Type Team: Perfect Typeface Combinations](http://www.amazon.com/Type-Team-Perfect-Typeface-Combinations/dp/0500291683)
->>>>>>> d843e481849fea799dd478cb5c5d01e208dc6036
+- [The Anatomy of Type: A graphic guide to 100 typefaces](http://www.amazon.com/The-Anatomy-Type-Graphic-Typefaces/dp/0062203126)
 
 ### Font inspiration
 - [TypeWolf](http://goo.gl/i0QWJZ)
