@@ -134,6 +134,8 @@ Web typography has 3 main concepts:
 - [The Evolution of Type: A Graphic Guide to 100 Landmark Typefaces](http://www.amazon.com/The-Evolution-Type-Landmark-Typefaces/dp/1770855041)
 - [Type Team: Perfect Typeface Combinations](http://www.amazon.com/Type-Team-Perfect-Typeface-Combinations/dp/0500291683)
 - [The Anatomy of Type: A graphic guide to 100 typefaces](http://www.amazon.com/The-Anatomy-Type-Graphic-Typefaces/dp/0062203126)
+- [Graphic Design Theory: Readings from the Field](http://www.amazon.com/Graphic-Design-Theory-Readings-Field/dp/1568987722)
+- 
 
 ### Font inspiration
 - [TypeWolf](http://goo.gl/i0QWJZ)
